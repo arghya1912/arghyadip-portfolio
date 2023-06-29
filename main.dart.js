@@ -45263,10 +45263,10 @@ $S:5}
 A.a9a.prototype={
 $0(){var s=0,r=A.a_(t.H)
 var $async$$0=A.a0(function(a,b){if(a===1)return A.X(b,r)
-while(true)switch(s){case 0:s=2
-return A.a2(A.tL(new A.n8("832546406186876968")),$async$$0)
-case 2:A.MK("Discord ID copied to Clipboard!",B.p,3)
-return A.Y(null,r)}})
+while(true)switch(s){case 0:A.tL(new A.n8("832546406186876968"))
+s=2
+return A.a2(A.MK("Discord ID copied to Clipboard!",B.p,3),$async$$0)
+case 2:return A.Y(null,r)}})
 return A.Z($async$$0,r)},
 $S:5}
 A.a9k.prototype={
@@ -45386,10 +45386,10 @@ $S:5}
 A.a9e.prototype={
 $0(){var s=0,r=A.a_(t.H)
 var $async$$0=A.a0(function(a,b){if(a===1)return A.X(b,r)
-while(true)switch(s){case 0:s=2
-return A.a2(A.tL(new A.n8("832546406186876968")),$async$$0)
-case 2:A.MK("Discord ID copied to Clipboard!",B.p,3)
-return A.Y(null,r)}})
+while(true)switch(s){case 0:A.tL(new A.n8("832546406186876968"))
+s=2
+return A.a2(A.MK("Discord ID copied to Clipboard!",B.p,3),$async$$0)
+case 2:return A.Y(null,r)}})
 return A.Z($async$$0,r)},
 $S:5}
 A.Iz.prototype={
